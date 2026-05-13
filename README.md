@@ -57,7 +57,7 @@ The <a href="#">keyboard shortcut access</a> opens the Yoink shelf from the keyb
 ---
 
 <p align="center">
-  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/yoink.jpg?quality=82&strip=all&w=1024" alt="Yoink screenshot 2"/>
+  <img src="https://i.ytimg.com/vi/UURjBLnYm-k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0MzUXCUAg3_DtDKIriwTeuPnDLw" alt="Yoink screenshot 2"/>
 </p>
 
 ## 🌍 Where It's Useful & Additional Information
