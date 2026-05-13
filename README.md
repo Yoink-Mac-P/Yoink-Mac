@@ -25,7 +25,7 @@
 The <a href="#">multi-monitor support</a> makes the shelf available on any connected display, enabling cross-display file operations the same way it enables cross-Space operations. <a href="#">Non-destructive holding</a> keeps the original files in place while they are on the shelf — files are not moved or modified until the shelf contents are dropped at a destination, protecting against accidental loss during complex multi-step operations.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/348321/m/yoink-screenshot.png?v=1667998104" alt="Yoink screenshot"/>
+  <img src="https://i.ytimg.com/vi/UURjBLnYm-k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0MzUXCUAg3_DtDKIriwTeuPnDLw" alt="Yoink screenshot"/>
 </p>
 
 <a href="#">Finder tag preservation</a> maintains Finder tags, color labels, and extended attributes on files moved through the shelf, preserving organization metadata that some drag operations strip. <a href="#">Share sheet integration</a> accepts content from macOS's native Share sheet into the Yoink shelf, enabling collection of shared content from applications into the shelf for later placement.
@@ -57,7 +57,7 @@ The <a href="#">keyboard shortcut access</a> opens the Yoink shelf from the keyb
 ---
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/UURjBLnYm-k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC0MzUXCUAg3_DtDKIriwTeuPnDLw" alt="Yoink screenshot 2"/>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2022/02/yoink.jpg?quality=82&strip=all" alt="Yoink screenshot 2"/>
 </p>
 
 ## 🌍 Where It's Useful & Additional Information
